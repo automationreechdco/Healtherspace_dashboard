@@ -1,0 +1,30 @@
+[
+  {
+    "id": "healther",
+    "name": "Healther Space",
+    "handle": "@healther.space",
+    "facebookPageId": "101399039494364",
+    "instagramId": "17841455633765545"
+  },
+  {
+    "id": "community",
+    "name": "Healther Community",
+    "handle": "Facebook page",
+    "facebookPageId": "112797591752923",
+    "instagramId": ""
+  },
+  {
+    "id": "mompooch",
+    "name": "healther.mompooch",
+    "handle": "@healther.mompooch",
+    "facebookPageId": "",
+    "instagramId": "17841421620156966"
+  },
+  {
+    "id": "malayalam",
+    "name": "healther.malayalam",
+    "handle": "@healther.malayalam",
+    "facebookPageId": "",
+    "instagramId": "17841461005602796"
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "name": "healther-dashboard",
+  "version": "2.0.0",
+  "description": "Healther social performance dashboard (Instagram + Facebook) powered by the Meta Graph API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "ids": "node discover.js",
+    "weekly:run": "node scripts/run-weekly-analysis.js"
+  },
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "nodemailer": "^6.9.14"
+  }
+}
