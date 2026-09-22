@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: reechd-dashboard
+    name: healther-dashboard
     runtime: node
     plan: free
     buildCommand: npm install
@@ -16,7 +16,7 @@ services:
       - key: DASHBOARD_PASSWORD
         sync: false
       - key: DASHBOARD_USER
-        value: reechd
+        value: healther
       - key: ANTHROPIC_API_KEY
         sync: false
       - key: CLAUDE_MODEL
